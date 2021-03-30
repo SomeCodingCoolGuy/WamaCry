@@ -4,9 +4,7 @@
 [! [GitHub issues] (https://img.shields.io/github/issues/bitdust/WamaCry.svg)] (https://github.com/bitdust/WamaCry/issues)
 [! [GitHub forks] (https://img.shields.io/github/forks/bitdust/WamaCry.svg)] (https://github.com/bitdust/WamaCry/network)
 
-a fake WannaCry
-Pretend you're a virus
-
+a fake WannaCry; pretend your system is infected with WannaCry,
 Another Mac version: (WannaCry) (https://github.com/hufan-Akari/WannaCry)
 The purpose of the
 1. Tomorrow is deadline, but what if the paper isn't finished yet?
