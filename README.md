@@ -1,51 +1,50 @@
+*Translated and proofreaded into English.*
 # WamaCry
-[![GitHub stars](https://img.shields.io/github/stars/bitdust/WamaCry.svg)](https://github.com/bitdust/WamaCry/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/bitdust/WamaCry.svg)](https://github.com/bitdust/WamaCry/issues)
-[![GitHub forks](https://img.shields.io/github/forks/bitdust/WamaCry.svg)](https://github.com/bitdust/WamaCry/network)
+[! [GitHub stars] (https://img.shields.io/github/stars/bitdust/WamaCry.svg)] (https://github.com/bitdust/WamaCry/stargazers)
+[! [GitHub issues] (https://img.shields.io/github/issues/bitdust/WamaCry.svg)] (https://github.com/bitdust/WamaCry/issues)
+[! [GitHub forks] (https://img.shields.io/github/forks/bitdust/WamaCry.svg)] (https://github.com/bitdust/WamaCry/network)
 
-a fake WannaCry  
-假装自己是个病毒  
+a fake WannaCry
+Pretend you're a virus
 
-兼容：win7/win8.1/win10  
-Mac版请自行编译，或使用：[FakeWannaCry](https://github.com/iVanilla/FakeWannaCry)  
-另一Mac版本：[WannaCry](https://github.com/hufan-Akari/WannaCry)  
-## 用途
-1. 明天就是deadline了可是论文还没写完怎么办
-2. 这稿子还想再拖一周可是借口都用完了怎么办
-3. 不想加班，又找不到理由开溜怎么办
-4. 别人都中毒了，就我没中感觉out了怎么办
-5. 生活好无趣，想假装中毒发个朋友圈怎么办
-6. ... ...
-## 使用方法
-1. [下载](https://github.com/bitdust/WamaCry/releases)并解压文件夹
-2. 在你想破坏的文件上右键->打开方式->选择默认程序
-3. 浏览到程序文件夹并设置 WamaCry.exe 为这个文件类型的默认打开程序
-4. 一脸真诚的去向老板报告情况
+Another Mac version: (WannaCry) (https://github.com/hufan-Akari/WannaCry)
+The purpose of the
+1. Tomorrow is deadline, but what if the paper isn't finished yet?
+2. What if the manuscript wants to drag on for another week but the excuses are all used up?
+3. Don't want to work overtime, and can't find a reason to slip away how to do
+4. Everyone else is poisoned, as far as I'm not feeling out
+5. Life is boring, want to pretend poisoning send a circle of friends -
+6. - how to use it
 
-## 自定义皮肤
+How To Use It
+8. Download (https://github.com/bitdust/WamaCry/releases) and unzim the folder
+9. Right-click on the file you want to break - > open way - > the default program
+10. Browse to the program folder and set the WamaCry .exe open the program by default for this file type
+11. Report the situation to the boss in good faith
 
-1. 进入mod文件夹
-2. 丢进去你想用的图片
-3. 修改config.ini文件即可  
+Custom skin
 
-**注意**  
-config.ini文件格式中尽可能不要出现符号，比如逗号  
-图片尽可能事先裁好尺寸，不然会拉伸变形  
-mod文件夹内事先放置了几个参考的ini文件，包括：
-1. config.ini.orgin 原版  
-2. config.ini.nyancat 彩虹猫
-3. config.ini.doge doge狗  
+1. Go to the mod folder
+2. Throw in the picture you want to use
+3. Modify the .ini file
 
-删掉后缀并替换config.ini文件即可生效  
-你也可以参考上面几个发挥你的想象力吧！
+Note that the Config .ini can contain few symbols as possible in the file format, such as commas
+The picture is cut as pre-sized as possible, otherwise it will stretch and deform
+Several reference .INI files were placed in advance in the mod folder, including:
+1. config.ini.orgin original
+2. config.ini.nyancat Rainbow Cat
+3. config.ini.doge doge dog
+
+Delete the suffix and replace the .ini file and your changes will take effect.
+You can also refer to the above few to use your imagination!
 
 ## Build
-作为Qt新手，我并没有跨平台开发的经验，虽然有人确实试过可以在Mac下编译通过。  
-不过需要提醒一句，用Qt生成完成之后，需要将mod文件夹手动拷贝至生成目录后，才能正常运行。
+As a QT starter, I don't have cross-platform development experience, although some people do try to compile under Mac.  
+However, it is important to remind that after the QT build is complete, the mod folder needs to be manually copied to the build directory before it can function properly.
 ## Screenshot
-![clipboard01](https://cloud.githubusercontent.com/assets/6072743/26133554/88b1e0c8-3ada-11e7-9796-1059ea8b93dc.png)
-![3](https://cloud.githubusercontent.com/assets/6072743/26133474/e2aee0ea-3ad9-11e7-8aeb-b434e277491a.gif)
+! [clipboard01] (https://cloud.githubusercontent.com/assets/6072743/26133554/88b1e0c8-3ada-11e7-9796-1059ea8b93dc.png)
+! [3] (https://cloud.githubusercontent.com/assets/6072743/26133474/e2aee0ea-3ad9-11e7-8aeb-b434e277491a.gif)
 
-## 许可证
-此软件基于本人原创~~抄袭~~的可乐协议发布>>[license](/LICENSE.txt)
-# >>>请谨慎使用！<<<
+License
+This software is based on my original coke protocol release >> .license (/LICENSE.txt)
+Please >>> use it with caution! <<<
